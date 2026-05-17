@@ -243,6 +243,11 @@ a { color: var(--blue-deep); }
 
 .fb-page { display: inline-block; max-width: 100%; }
 
+.twitter-timeline {
+  width: 100% !important;
+  min-height: 600px;
+}
+
 .ig-link {
   display: flex;
   flex-direction: column;
